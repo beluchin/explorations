@@ -1,7 +1,7 @@
-package exploration.typetoken;
+package aq.explorations.typetoken;
 
 import com.google.common.reflect.TypeToken;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
